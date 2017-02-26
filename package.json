@@ -59,7 +59,7 @@
     "promise-polyfill": "^6.0.2",
     "sinon": "^1.17.7",
     "sinon-chai": "^2.8.0",
-    "vue": "^2.1.8",
+    "vue": "^2.2.0",
     "vuex": "^2.1.1",
     "webpack": "^1.14.0"
   }
